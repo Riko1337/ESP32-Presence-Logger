@@ -31,3 +31,16 @@
 4. Connect ESP32 and select the correct board and port.
 5. Upload the `main.ino` sketch.
 6. Use Serial Monitor for debugging and a BLE client for commands.
+
+
+## Disclaimer / Legal Notice
+
+This project is intended **for educational purposes only**. 
+
+- It collects BLE and Wi-Fi device information **only for testing and logging in environments where you have permission**.  
+- All MAC addresses and BSSIDs are **hashed to anonymize the data**.  
+- The author is **not responsible** for any misuse of this code by third parties.  
+- Do **not use this project to access, hack, or interfere with networks or devices without consent**, as it may be illegal in your country.  
+
+Use responsibly and always respect privacy and local laws.
+
